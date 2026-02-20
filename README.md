@@ -1,4 +1,4 @@
-﻿# Bot Discord - Assistenza
+# Bot Discord - Assistenza
 
 ## Funzioni
 - Comando testuale `!assistenza` in un canale.
