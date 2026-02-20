@@ -1,0 +1,17 @@
+﻿{
+  "name": "discord-assistenza-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord con form assistenza via comando !assistenza",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.17"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
